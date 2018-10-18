@@ -1,0 +1,141 @@
+[
+  {
+    "question": "I am fascinated by how machines work.",
+    "questionID": "1"
+  },
+  {
+    "question": "In maths, I am intrigued by the rules and patterns governing numbers.",
+    "questionID": "2"
+  },
+  {
+    "question": "If I were buying a computer, I would want to know exact details about its hard drive capacity and processor speed.",
+    "questionID": "3"
+  },
+  {
+    "question": "If I had a collection (e.g. CDs, coins, stamps), it would be highly organised.",
+    "questionID": "4"
+  },
+  {
+    "question": "When I read something, I always notice whether it is grammatically correct.",
+    "questionID": "5"
+  },
+  {
+    "question": "I am not interested in understanding how wireless communication works.",
+    "questionID": "6"
+  },
+  {
+    "question": "I rarely read articles or webpages about new technology.",
+    "questionID": "7"
+  },
+  {
+    "question": "I do not enjoy games that involve a high degree of strategy.",
+    "questionID": "8"
+  },
+  {
+    "question": "I find it difficult to understand instruction manuals for putting appliances together.",
+    "questionID": "9"
+  },
+  {
+    "question": "I find it difficult to read and understand maps.",
+    "questionID": "10"
+  },
+  {
+    "question": "I can easily tell if someone else wants to enter a conversation.",
+    "questionID": "11"
+  },
+  {
+    "question": "I really enjoy caring for other people.",
+    "questionID": "12"
+  },
+  {
+    "question": "I find it easy to put myself in somebody else's shoes.",
+    "questionID": "13"
+  },
+  {
+    "question": "I am quick to spot when someone in a group is feeling awkward or uncomfortable.",
+    "questionID": "14"
+  },
+  {
+    "question": "I can usually appreciate the other person's viewpoint, even if I don't agree with it.",
+    "questionID": "15"
+  },
+  {
+    "question": "I find it difficult to explain to others things that I understand easily, when they don't understand it first time.",
+    "questionID": "16"
+  },
+  {
+    "question": "I do not take people's feelings into account when making a decision.",
+    "questionID": "17"
+  },
+  {
+    "question": "In a conversation, I tend to focus on my own thoughts rather than on what my listener might be thinking.",
+    "questionID": "18"
+  },
+  {
+    "question": "It is hard for me to see why some things upset people so much.",
+    "questionID": "19"
+  },
+  {
+    "question": "If I see a stranger in a group, I think that it is up to them to make an effort to join in.",
+    "questionID": "20"
+  },
+  {
+    "question": "I am often said to be the life of the party",
+    "questionID": "21"
+  },
+  { "question": "I feel comfortable around people", "questionID": "22" },
+  {
+    "question": "I usually am the one starting conversations ",
+    "questionID": "23"
+  },
+  {
+    "question": "I do not mind being the center of the attention",
+    "questionID": "24"
+  },
+  {
+    "question": "In gatherings, I talk to different people",
+    "questionID": "25"
+  },
+  {
+    "question": "I am usually said to be quiet around strangers",
+    "questionID": "26"
+  },
+  {
+    "question": "I generally think I do not have a lot to say",
+    "questionID": "27"
+  },
+  {
+    "question": "I do not enjoy being the center of the attention",
+    "questionID": "28"
+  },
+  {
+    "question": "It is not easy for me to approach people that I don't know",
+    "questionID": "29"
+  },
+  { "question": "I am a private person", "questionID": "30" },
+  { "question": "I believe in the importance of art", "questionID": "31" },
+  {
+    "question": "I often see beauty in things that others might not notice",
+    "questionID": "32"
+  },
+  {
+    "question": "I am easily irritated by things that are not designed beautifully ",
+    "questionID": "33"
+  },
+  { "question": "I enjoy music", "questionID": "34" },
+  { "question": "I recognize the beauty in nature", "questionID": "35" },
+  { "question": "I am not fond of art ", "questionID": "36" },
+  {
+    "question": "I do not see myself as a creative person",
+    "questionID": "37"
+  },
+  {
+    "question": "I would rather listen to a podcast on science than on poetry",
+    "questionID": "38"
+  },
+  { "question": "I do not have a vivid imagination", "questionID": "39" },
+  {
+    "question": "I do not get easily lost in my thoughts",
+    "questionID": "40"
+  }
+]
